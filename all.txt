@@ -1,0 +1,76 @@
+https://computers.tutsplus.com/tutorials/how-to-read-temperatures-with-arduino--mac-53714 
+
+https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm
+
+https://roboticsbackend.com/arduino-control-led-brightness-with-a-potentiometer/
+
+https://computers.tutsplus.com/tutorials/how-to-read-temperatures-with-arduino--mac-53714
+
+https://thingsboard.io/docs/samples/arduino/temperature
+
+https://circuitdigest.com/microcontroller-projects/iot-air-pollution-monitoring-using-arduino
+
+https://www.dfrobot.com/blog-1003.html
+
+https://www.hackster.io/Arduino_Genuino/control-servo-motor-from-the-iot-cloud-b98775
+
+https://aws.amazon.com/blogs/compute/visualizing-sensor-data-in-amazon-quicksight/
+
+https://www.instructables.com/Controlling-Actuators-Via-Smartphone-by-Interfacin/
+
+https://circuitdigest.com/microcontroller-projects/arduino-nodemcu-based-smart-water-quality-monitoring-system-using-iot
+
+
+
+Key Partners:
+
+Technology providers (hardware, software)
+Advertising agencies
+Content creators
+Retail or commercial property owners
+Key Activities:
+
+Research and development of digital display technology
+Sales and marketing of digital displays to potential partners and customers
+Installation and maintenance of digital displays
+Creation and curation of content for digital displays
+Key Resources:
+
+Digital display technology and equipment
+Sales and marketing materials
+Content creation tools and resources
+Technical expertise and personnel
+Value Proposition:
+
+High-resolution and dynamic digital displays for advertising and branding
+Targeted advertising and content delivery
+Customizable and interactive features for enhanced customer engagement
+Increased foot traffic and sales for retail partners
+Customer Relationships:
+
+Direct relationships with retail and commercial property owners
+Indirect relationships through advertising agencies and content creators
+Channels:
+
+Direct sales and marketing to potential partners and customers
+Advertising and promotional partnerships with retail and commercial property owners
+Online and offline marketing campaigns
+Customer Segments:
+
+Retail and commercial property owners
+Advertising agencies and content creators
+End consumers
+Cost Structure:
+
+Research and development costs
+Equipment and technology costs
+Sales and marketing expenses
+Installation and maintenance costs
+Revenue Streams:
+
+Advertising revenue from businesses and agencies
+Revenue from retail and commercial property owners for installation and maintenance
+Revenue from content creation and curation services
+
+
+
